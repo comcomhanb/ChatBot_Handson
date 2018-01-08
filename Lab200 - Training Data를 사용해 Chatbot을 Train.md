@@ -26,7 +26,9 @@ LAB 200
 
 ![Screen Shot 2018-01-08 at 6.31.58P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.31.58%20PM.png)
 
+
 **Step 2: 챗봇에서 intent, entity, flow 만들기**
+=======
 
 이 섹션에서는 utterances를 추가함으써, intent를 생성 할 것입니다. 후에,
 각각의 intent에 필요한 entity를 추가하고, 비지니스 로직을 flow에서 정의

@@ -7,6 +7,8 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 3.  Utterances
 4.  Flow
 
+
+
 이 랩을 하기전에 필요한 항목을 확인하세요. labfiles/아래에서 아래의 파일들이 있는지 확인해주세요.
 
 -   FirstBotYAML.txt
@@ -51,6 +53,8 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
  - 잔고가 얼마인가요?
  - 통장에 얼마 있죠?
  
+ 
+ 
 모두 넣으면 아래의 그림과 같이 보여질 것 입니다.
 ![Screen Shot 2018-01-08 at 8.32.23P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.32.23%20PM.png)
 
@@ -63,6 +67,8 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 -   점심값 20달러 보내줘
 -   20달러를 송금해줘
 
+
+
 2.  intent에 entity를 추가 해 주세요. 계좌의 잔고를 조회하기 위해서는 사용자가 원하는 잔고가 "어떤" 계좌의 잔고인지 알아합니다. 이 경우 "어떤" 계좌는 entity입니다. entity를 생성해서 intent에 연결 해 주세요
 
 ![Screen Shot 2018-01-08 at 8.37.53P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.37.53%20PM.png)
@@ -72,17 +78,26 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 ![Screen Shot 2018-01-08 at 8.49.29P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.49.29%20PM.png)
 
 
+
+
+
 아래 보이는 것 처럼, Send Money 또한 entity를 만든 후에 intent에 추가 해 주세요. 
 
 ![1](media/15154024966057/1.png)
 
 ![1](media/15154024966057/2.png)
 
+
+
+
 3.  labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에 넣어주세요.
 
 ![Screen Shot 2018-01-08 at 8.57.03P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.03%20PM.png)
 
 ![Screen Shot 2018-01-08 at 8.57.27P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.27%20PM.png)
+
+
+
 
 4.  현재까지 example utterances를 이용해 2개의 intent를 만들었으며, 필요한 entity를 추가했습니다. 그리고 이 intent와 entity를 사용해 대화가 어떻게 흘러갈지 flow를 정의했습니다. Train 버튼을 눌러서 Bot을 교육 시켜 주세요. 재생 버튼을 눌러서 봇을 Test 해 보겠습니다. intent 감지와 entity 추출이 정상동작하는지 확인합니다. 또한, 탭을 옮겨서 그럼 flow도 확인 해 주세요.
 

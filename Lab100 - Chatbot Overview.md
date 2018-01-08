@@ -1,4 +1,4 @@
-LAB 100 
+Lab100 - Chatbot Overview
 =======
 
 이 섹션에서는 MasterBot이라는 이름의 금융 챗봇을 살펴볼 것입니다. 이것은

@@ -19,13 +19,13 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 **Step 1: 간단한 Banking bot 만들기**
 =======
 
-1. FirstBot\_본인의이니셜 ex)FirstBot\_shjeon으로 봇을 만들어 주세요.
+# 1. FirstBot\_본인의이니셜 ex)FirstBot\_shjeon으로 봇을 만들어 주세요.
 
 ![Screen Shot 2018-01-08 at 6.26.35P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.26.35%20PM.png)
 
 ![Screen Shot 2018-01-08 at 6.26.50P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.26.50%20PM.png)
 
-2. 각 각의 컴포넌트를 눌러보면서 어떤기능이 있는지 살펴보세요. 
+# 2. 각 각의 컴포넌트를 눌러보면서 어떤기능이 있는지 살펴보세요. 
 
 ![Screen Shot 2018-01-08 at 6.31.58P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.31.58%20PM.png)
 
@@ -39,7 +39,7 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 각각의 intent에 필요한 entity를 추가하고, 비지니스 로직을 flow에서 정의
 할 것입니다. 이렇게 만들어진 챗봇을 테스트 해 보겠습니다.
 
-1.  초록색 버튼으로 intent를 추가해 주세요.
+# 1.  초록색 버튼으로 intent를 추가해 주세요.
 
 ![Screen Shot 2018-01-08 at 8.17.57P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.17.57%20PM.png)
 
@@ -72,7 +72,7 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 
 
 
-2.  intent에 entity를 추가 해 주세요. 계좌의 잔고를 조회하기 위해서는 사용자가 원하는 잔고가 "어떤" 계좌의 잔고인지 알아합니다. 이 경우 "어떤" 계좌는 entity입니다. entity를 생성해서 intent에 연결 해 주세요
+# 2.  intent에 entity를 추가 해 주세요. 계좌의 잔고를 조회하기 위해서는 사용자가 원하는 잔고가 "어떤" 계좌의 잔고인지 알아합니다. 이 경우 "어떤" 계좌는 entity입니다. entity를 생성해서 intent에 연결 해 주세요
 
 ![Screen Shot 2018-01-08 at 8.37.53P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.37.53%20PM.png)
 
@@ -96,7 +96,7 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 
 
 
-3.  labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에 넣어주세요.
+# 3. labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에 넣어주세요.
 
 ![Screen Shot 2018-01-08 at 8.57.03P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.03%20PM.png)
 
@@ -105,7 +105,7 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 
 
 
-4.  현재까지 example utterances를 이용해 2개의 intent를 만들었으며, 필요한 entity를 추가했습니다. 그리고 이 intent와 entity를 사용해 대화가 어떻게 흘러갈지 flow를 정의했습니다. Train 버튼을 눌러서 Bot을 교육 시켜 주세요. 재생 버튼을 눌러서 봇을 Test 해 보겠습니다. intent 감지와 entity 추출이 정상동작하는지 확인합니다. 또한, 탭을 옮겨서 그럼 flow도 확인 해 주세요.
+# 4.  현재까지 example utterances를 이용해 2개의 intent를 만들었으며, 필요한 entity를 추가했습니다. 그리고 이 intent와 entity를 사용해 대화가 어떻게 흘러갈지 flow를 정의했습니다. Train 버튼을 눌러서 Bot을 교육 시켜 주세요. 재생 버튼을 눌러서 봇을 Test 해 보겠습니다. intent 감지와 entity 추출이 정상동작하는지 확인합니다. 또한, 탭을 옮겨서 그럼 flow도 확인 해 주세요.
 
 ![Screen Shot 2018-01-08 at 9.05.17P](media/15154024966057/Screen%20Shot%202018-01-08%20at%209.05.17%20PM.png)
 

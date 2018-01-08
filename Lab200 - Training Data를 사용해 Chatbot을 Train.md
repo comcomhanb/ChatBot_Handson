@@ -19,7 +19,7 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 **Step 1: 간단한 Banking bot 만들기**
 =======
 
-# 1. FirstBot\_본인의이니셜 ex)FirstBot\_shjeon으로 봇을 만들어 주세요.
+### 1. FirstBot\_본인의이니셜 ex)FirstBot\_shjeon으로 봇을 만들어 주세요.
 
 ![Screen Shot 2018-01-08 at 6.26.35P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.26.35%20PM.png)
 

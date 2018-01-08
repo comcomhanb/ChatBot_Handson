@@ -13,6 +13,7 @@ LAB 200
 -   MasterBot-Intents.csv
 
 **Step 1: 간단한 Banking bot 만들기**
+=======
 
 1. FirstBot\_본인의이니셜 ex)FirstBot\_shjeon으로 봇을 만들어 주세요.
 
@@ -50,7 +51,6 @@ LAB 200
  - 통장에 얼마 있죠?
  
 모두 넣으면 아래의 그림과 같이 보여질 것 입니다.
-
 ![Screen Shot 2018-01-08 at 8.32.23P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.32.23%20PM.png)
 
 Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utterances를
@@ -63,34 +63,25 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 -   점심값 20달러 보내줘
 -   20달러를 송금해줘
 
-2.  intent에 entity를 추가 해 주세요. 계좌의 잔고를 조회하기 위해서는
-    사용자가 원하는 잔고가 "어떤" 계좌의 잔고인지 알아합니다. 이 경우
-    "어떤" 계좌는 entity입니다.
+2.  intent에 entity를 추가 해 주세요. 계좌의 잔고를 조회하기 위해서는 사용자가 원하는 잔고가 "어떤" 계좌의 잔고인지 알아합니다. 이 경우 "어떤" 계좌는 entity입니다. entity를 생성해서 intent에 연결 해 주세요
 
 ![Screen Shot 2018-01-08 at 8.37.53P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.37.53%20PM.png)
 
 ![Screen Shot 2018-01-08 at 8.41.11P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.41.11%20PM.png)
 
-추가 한 entity를 intent에 연결 해 주세요.
-
 ![Screen Shot 2018-01-08 at 8.49.29P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.49.29%20PM.png)
 
-3.  labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에
-    넣어주세요.\
+3.  labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에 넣어주세요.
 
 ![Screen Shot 2018-01-08 at 8.57.03P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.03%20PM.png)
 
 ![Screen Shot 2018-01-08 at 8.57.27P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.27%20PM.png)
 
-4.  현재까지 example utterances를 이용해 2개의 intent를 만들었으며, 필요한 entity를 추가했습니다. 그리고 이 intent와 entity를 사용해 대화가 어떻게 흘러갈지 flow를 정의했습니다. Train 버튼을 눌러서 Bot을 교육 시켜 주세요. 재생 버튼을 눌러서 봇을 Test 해 보겠습니다.
+4.  현재까지 example utterances를 이용해 2개의 intent를 만들었으며, 필요한 entity를 추가했습니다. 그리고 이 intent와 entity를 사용해 대화가 어떻게 흘러갈지 flow를 정의했습니다. Train 버튼을 눌러서 Bot을 교육 시켜 주세요. 재생 버튼을 눌러서 봇을 Test 해 보겠습니다. intent 감지와 entity 추출이 정상동작하는지 확인합니다. 또한, 탭을 옮겨서 그럼 flow도 확인 해 주세요.
 
 ![Screen Shot 2018-01-08 at 9.05.17P](media/15154024966057/Screen%20Shot%202018-01-08%20at%209.05.17%20PM.png)
 
-intent 감지와 entity 추출이 정상동작하는지 확인합니다.
-
 ![Screen Shot 2018-01-08 at 9.07.32P](media/15154024966057/Screen%20Shot%202018-01-08%20at%209.07.32%20PM.png)
-
-그럼 flow도 확인 해 보겠습니다.
 
 ![Screen Shot 2018-01-08 at 9.09.55P](media/15154024966057/Screen%20Shot%202018-01-08%20at%209.09.55%20PM.png)
 

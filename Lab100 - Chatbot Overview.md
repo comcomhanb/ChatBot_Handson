@@ -4,7 +4,9 @@ LAB 100
 이 섹션에서는 MasterBot이라는 이름의 금융 챗봇을 살펴볼 것입니다. 이것은
 수정 및 추가가 가능한 완전한 chat봇입니다.
 
-**Step 1 : masterBot에서 "Get Balance Function" 테스트 하기**\
+**Step 1 : masterBot에서 "Get Balance Function" 테스트 하기**
+=======
+
  1. Bot의 메인 화면으로 들어가서, MasterBot을 찾습니다. 메인화면의
 검색창에서 찾을 수 있습니다.
 
@@ -52,6 +54,7 @@ P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.20.09%20PM.png)￼
 P](media/15153914320994/Screen%20Shot%202018-01-08%20at%205.20.56%20PM.png)￼
 
 **Step 2 : masterBot에서 "Send Money Function" 테스트 하기**
+=======
 
 1. 이전에 보신것 처럼, Send money 기능도 테스트 해보세요
 

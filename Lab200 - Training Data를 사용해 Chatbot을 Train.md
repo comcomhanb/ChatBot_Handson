@@ -22,8 +22,6 @@ LAB 200
 ![Screen Shot 2018-01-08 at 6.26.50P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.26.50%20PM.png)
 
 2. 각 각의 컴포넌트를 눌러보면서 어떤기능이 있는지 살펴보세요. 
-![ScreenShot 2018-01-08 at 6.27.01P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.27.01%20PM.png)
-
 ![Screen Shot 2018-01-08 at 6.31.58P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.31.58%20PM.png)
 
 
@@ -55,8 +53,7 @@ LAB 200
 모두 넣으면 아래의 그림과 같이 보여질 것 입니다.
 ![Screen Shot 2018-01-08 at 8.32.23P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.32.23%20PM.png)
 
-Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utterances를
-추가 해 주세요.
+Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utterances를 추가 해 주세요.
 -   Lauren에게 사진값 25달러 보내
 -   아빠 계좌에 10달러 보내
 -   매달 엄마에게 500달러 보내줘

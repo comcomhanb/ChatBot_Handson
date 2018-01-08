@@ -71,6 +71,13 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 
 ![Screen Shot 2018-01-08 at 8.49.29P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.49.29%20PM.png)
 
+
+아래 보이는 것 처럼, Send Money 또한 entity를 만든 후에 intent에 추가 해 주세요. 
+
+![1](media/15154024966057/1.png)
+
+![1](media/15154024966057/2.png)
+
 3.  labfiles 폴더 안에 있는 FirstBotYAML.txt을 열어서 Flow에 넣어주세요.
 
 ![Screen Shot 2018-01-08 at 8.57.03P](media/15154024966057/Screen%20Shot%202018-01-08%20at%208.57.03%20PM.png)

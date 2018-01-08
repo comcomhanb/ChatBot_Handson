@@ -1,6 +1,8 @@
 Lab200 - Training Data를 사용해 Chatbot을 Train
 =======
 
+
+
 이 랩에서는 간단한 금융 봇을 정의하고 테스트하여 작동 원리를 배울 것입니다. LAB100에서 본 챗봇을 어떻게 교육 시키는지 어떻게 비지니스 플로우를 정의 하는지를 알아 볼 것입니다. 아래의 네가지 항목은 이번 랩에서 배울 것입니다.
 1.  Intent
 2.  Entity
@@ -8,11 +10,11 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 4.  Flow
 
 
-
 이 랩을 하기전에 필요한 항목을 확인하세요. labfiles/아래에서 아래의 파일들이 있는지 확인해주세요.
-
 -   FirstBotYAML.txt
 -   MasterBot-Intents.csv
+
+
 
 **Step 1: 간단한 Banking bot 만들기**
 =======
@@ -26,6 +28,8 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 2. 각 각의 컴포넌트를 눌러보면서 어떤기능이 있는지 살펴보세요. 
 
 ![Screen Shot 2018-01-08 at 6.31.58P](media/15154024966057/Screen%20Shot%202018-01-08%20at%206.31.58%20PM.png)
+
+
 
 
 **Step 2: 챗봇에서 intent, entity, flow 만들기**
@@ -52,7 +56,6 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
  - 계좌에 얼마 있죠?
  - 잔고가 얼마인가요?
  - 통장에 얼마 있죠?
- 
  
  
 모두 넣으면 아래의 그림과 같이 보여질 것 입니다.
@@ -86,6 +89,9 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 ![1](media/15154024966057/1.png)
 
 ![1](media/15154024966057/2.png)
+
+
+
 
 
 

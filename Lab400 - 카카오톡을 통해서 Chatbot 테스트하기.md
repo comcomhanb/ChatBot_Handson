@@ -48,7 +48,8 @@ P](media/15154775261285/Screen%20Shot%202018-01-09%20at%203.07.53%20PM.png)
 ![Screen Shot 2018-01-09 at 3.09.05P](media/15154775261285/Screen%20Shot%202018-01-09%20at%203.09.05%20PM.png)
 
 ### 6.  url을 알맞게 바꿔 주세요.
-Step 1에서 복사 해 두었던 url에서 앞부분을 host의 8080 포트로 바꿔 주세요. [http://bots-connectors:8000](http://bots-connectors:8000)/connectors/v1/tenants/chatbot-tenant/listeners/kakaotalk/channels/E98FFE3E-9E16-4E9B-A147-1F5EA0C528C1
+Step 1에서 복사 해 두었던 url에서 앞부분을 host의 8080 포트로 바꿔 주세요. 
+http://bots-connectors:8000/connectors/v1/tenants/chatbot-tenant/listeners/kakaotalk/channels/E98FFE3E-9E16-4E9B-A147-1F5EA0C528C1
 
 앱 url을 등록 한 후에, API 테스트 버튼을 눌러주세요. 호출하는데 잠시 시간이 걸릴 수도 있습니다. 앱 이름, 앱 설정, 그리고 알림 받을 전화번호 또한 채워주세요.
 

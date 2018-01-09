@@ -1,11 +1,6 @@
 Lab300 - Custom Component 구현, 수정 및 연결.md
 =======
 
--   [Home](index.html)
--   [Archives](archives.html)
-
-[RSS](atom.xml "RSS")
-
 이 랩에서 기존에 만들어둔 FirstBot에서 서비스를 연결 하고 수정하는 것을
 배울 것입니다. 이 랩을 완성하기 위해서는 아래의 파일이 필요합니다.
 labfiles/code에서 확인 해 주세요. zip 을 풀어주세요.

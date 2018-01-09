@@ -12,8 +12,6 @@ Lab200 - Training Data를 사용해 Chatbot을 Train
 
 이 랩을 하기전에 필요한 항목을 확인하세요. labfiles/아래에서 아래의 파일들이 있는지 확인해주세요.
 -   FirstBotYAML.txt
--   MasterBot-Intents.csv
-
 
 
 **Step 1: 간단한 Banking bot 만들기**

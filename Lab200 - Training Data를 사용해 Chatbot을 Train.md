@@ -86,9 +86,9 @@ Send Money라는 두번째 intent를 만들어주세요. 후에, 아래의 utter
 
 아래 보이는 것 처럼, Send Money 또한 entity를 만든 후에 intent에 추가 해 주세요. 
 
-![1](media/15154024966057/1.png)
+![2](media/15154024966057/2.png)
 
-![1](media/15154024966057/2.png)
+![1](media/15154024966057/1.png)
 
 
 

@@ -10,6 +10,5 @@
 
 * Lab 100 : [Chatbot Overview](Lab100%20-%20Chatbot%20Overview.md)
 * Lab 200 : [Training Data를 사용해 Chatbot을 Train](Lab200%20-%20Training%20Data를%20사용해%20Chatbot을%20Train.md)
-* Lab 300 : [Dialog Flow 디자인 하기](Lab300%20-%20Dialog%20Flow%20디자인%20하기.md)
-* Lab 400 : [Custom Component 구현, 수정 및 연결](Lab400%20-%20Custom%20Component%20구현,%20수정%20및%20연결.md)
-* Lab 500 : [카카오톡을 통해서 Chatbot 테스트하기](Lab500%20-%20카카오톡을%20통해서%20Chatbot%20테스트하기.md)
+* Lab 300 : [Custom Component 구현, 수정 및 연결](Lab400%20-%20Custom%20Component%20구현,%20수정%20및%20연결.md)
+* Lab 400 : [카카오톡을 통해서 Chatbot 테스트하기](Lab500%20-%20카카오톡을%20통해서%20Chatbot%20테스트하기.md)
